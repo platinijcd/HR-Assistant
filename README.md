@@ -1,6 +1,7 @@
 # HR Assistant – Application Filtering & Candidate Scoring Automation
 
-![ChatGPT Image 4 juin 2025, 15_56_32](https://github.com/user-attachments/assets/f0331b91-f9a1-4305-b994-fcce1d7b9f93)
+![ChatGPT Image 4 juin 2025, 20_08_33](https://github.com/user-attachments/assets/6d054c72-c79e-4577-a537-944f5021cd75)
+
 
 
 HR Assistant is an intelligent automation workflow that helps recruitment agencies automatically gather, evaluate, and score candidate applications — saving hours of manual filtering and reducing human errors.
